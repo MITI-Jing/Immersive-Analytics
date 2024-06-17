@@ -22,9 +22,5 @@ This project was inspired by the need to explore immersive data analytics and de
 - Python (version 3.6 or later)
 - Git
 
-## Installation
 
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/MITI-Jing/Immersive-Analytics.git
    
